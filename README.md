@@ -2,7 +2,7 @@
 
 FreeCAD 3D design of pcb foot
 
-Also avalaible here: https://www.thingiverse.com/thing:2595386
+Also available here: https://www.thingiverse.com/thing:2595386
 
 Size:
 
